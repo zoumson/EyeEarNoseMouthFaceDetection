@@ -119,14 +119,14 @@ git clone https://github.com/zoumson/OpencvInstall.git     \
    ```sh
    mkdir build &&  mkdir bin 
    ```
-5. Generate the exectutable `imageBasics` and move it to `bin`
+5. Generate the exectutable and move it to `bin`
    ```sh
    cd build && cmake .. && make -j4 && cd ..
    ```
 
 <!-- USAGE EXAMPLES -->
 ### Usage
-1. Run for matrix usage 
+1. Run 
    ```sh
 
    ```
