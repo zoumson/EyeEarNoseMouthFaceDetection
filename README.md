@@ -12,7 +12,7 @@
 [![Stack Overflow][stackoverflow-shield]][stackoverflow.com/users/11175375/adam]
 [![Leetcode][leetcode-shield]][eetcode.com/Hard_Code/]
 -->
-## Eye, Ear, Nose, Mouth, and Face Detection
+## Eye, Ear, Nose, Mouth, and Face Detection( README will be updated soon)
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
